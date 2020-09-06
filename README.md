@@ -10,4 +10,5 @@ JavaScript solutions for LeetCode problems
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JavaScript](./solutions/0004_median_of_two_sorted_arrays.js) | Hard |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./solutions/0007_reverse_integer.js) | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./solutions/0009_palindrome_number.js) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./solutions/0021_merge_two_sorted_lists.js) | Easy |
 
