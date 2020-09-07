@@ -12,4 +12,4 @@ JavaScript solutions for LeetCode problems
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./solutions/0009_palindrome_number.js) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./solutions/0021_merge_two_sorted_lists.js) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](./solutions/0050_powx_n.js) | Medium |
-
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
