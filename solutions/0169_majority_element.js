@@ -5,7 +5,7 @@
  * @difficulty easy
  */
 
-const majorityElement = function(nums) {
+const majorityElement = function (nums) {
   let count = 0;
   let candidate = 0;
 
@@ -18,4 +18,4 @@ const majorityElement = function(nums) {
   }
 
   return candidate;
-}
+};
