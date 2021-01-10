@@ -12,16 +12,12 @@ const convert = function (s, numRows) {
 
   let res = '';
   let k = 2 * numRows - 2;
-  let numColumns = Math.ceil(s.length / k);
 
   for (let i = 0; i < numRows; i++) {
-    for (let j = 0; j < numColumns; j++) {
-      let idx1 = j * k + i;
-      if (idx1 < s.length) {
-        res += s[idx1];
-      }
+    for (let idx1 = i; idx1 < s.length; idx1 += k) {
+      res += s[idx1];
 
-      let idx2 = (j + 1) * k - i;
+      let idx2 = idx1 + k - 2 * i;
       if (i !== 0 && i !== numRows - 1 && idx2 < s.length) {
         res += s[idx2];
       }
