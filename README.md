@@ -15,3 +15,4 @@ JavaScript solutions for LeetCode problems
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](./solutions/0050_powx_n.js) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JavaScript](./solutions/1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.js) | Medium |
