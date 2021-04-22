@@ -11,6 +11,5 @@ const myPow = function (x, n) {
 
   let half = myPow(x, (n / 2) | 0);
 
-  if (n % 2 === 0) return half * half;
-  if (n % 2 === 1) return x * half * half;
+  return half * half * (n % 2 ? x : 1);
 };

@@ -16,4 +16,5 @@ JavaScript solutions for LeetCode problems
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./solutions/0067_add_binary.js) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
+| 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [JavaScript](./solutions/1360_number_of_days_between_two_dates.js) | Easy |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JavaScript](./solutions/1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.js) | Medium |
