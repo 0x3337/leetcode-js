@@ -5,7 +5,7 @@
  * @difficulty easy
  */
 
-const daysBetweenDates = function(date1, date2) {
+const daysBetweenDates = function (date1, date2) {
   let d1 = date1.split('-');
   let d2 = date2.split('-');
 

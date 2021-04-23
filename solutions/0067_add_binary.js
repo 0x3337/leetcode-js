@@ -5,7 +5,7 @@
  * @difficulty easy
  */
 
-const addBinary = function(a, b) {
+const addBinary = function (a, b) {
   let res = [];
   let aa = a.split(''), bb = b.split('');
   let accumulator = '0';

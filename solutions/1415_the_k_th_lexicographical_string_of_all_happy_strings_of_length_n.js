@@ -5,7 +5,7 @@
  * @difficulty medium
  */
 
-const getHappyString = function(n, k) {
+const getHappyString = function (n, k) {
   let alphabet = {
     'a': ['b', 'c'],
     'b': ['a', 'c'],
