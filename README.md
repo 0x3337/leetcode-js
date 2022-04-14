@@ -11,6 +11,7 @@ JavaScript solutions for LeetCode problems
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JavaScript](./solutions/0005_longest_palindromic_substring.js) | Medium |
 | 6    | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [JavaScript](./solutions/0006_zigzag_conversion.js) | Medium |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./solutions/0007_reverse_integer.js) | Easy |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./solutions/0008_string_to_integer_atoi.js) | Medium |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./solutions/0009_palindrome_number.js) | Easy |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./solutions/0013_roman_to_integer.js) | Easy |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./solutions/0014_longest_common_prefix.js) | Easy |
