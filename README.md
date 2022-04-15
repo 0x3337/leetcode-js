@@ -17,6 +17,7 @@ JavaScript solutions for LeetCode problems
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./solutions/0014_longest_common_prefix.js) | Easy |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./solutions/0020_valid_parentheses.js) | Easy |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./solutions/0021_merge_two_sorted_lists.js) | Easy |
+| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./solutions/0026_remove_duplicates_from_sorted_array.js) | Easy |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](./solutions/0050_powx_n.js) | Medium |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./solutions/0067_add_binary.js) | Easy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
