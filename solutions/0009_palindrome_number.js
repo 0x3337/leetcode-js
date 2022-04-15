@@ -14,9 +14,10 @@ const reverse = function (x) {
 
   while (x) {
     let diff = x % 10;
-
     x = (x - diff) / 10;
-    res = (res * 10) + diff;
+
+    res *= 10;
+    res += diff;
   }
 
   return res;
