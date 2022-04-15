@@ -13,6 +13,7 @@ JavaScript solutions for LeetCode problems
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./solutions/0007_reverse_integer.js) | Easy |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./solutions/0008_string_to_integer_atoi.js) | Medium |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./solutions/0009_palindrome_number.js) | Easy |
+| 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](./solutions/0012_integer_to_roman.js) | Medium |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./solutions/0013_roman_to_integer.js) | Easy |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./solutions/0014_longest_common_prefix.js) | Easy |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./solutions/0020_valid_parentheses.js) | Easy |
