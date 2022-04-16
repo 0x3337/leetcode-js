@@ -17,6 +17,7 @@ JavaScript solutions for LeetCode problems
 | 12   | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JavaScript](./solutions/0012_integer_to_roman.js) | Medium |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./solutions/0013_roman_to_integer.js) | Easy |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./solutions/0014_longest_common_prefix.js) | Easy |
+| 15   | [3Sum](https://leetcode.com/problems/3sum/) | [JavaScript](./solutions/0015_3sum.js) | Medium |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./solutions/0020_valid_parentheses.js) | Easy |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./solutions/0021_merge_two_sorted_lists.js) | Easy |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./solutions/0026_remove_duplicates_from_sorted_array.js) | Easy |
