@@ -33,6 +33,7 @@ JavaScript solutions for LeetCode problems
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./solutions/0191_number_of_1_bits.js) | Easy |
+| 326  | [Power of Three](https://leetcode.com/problems/power-of-three/) | [JavaScript](./solutions/0326_power_of_three.js) | Easy |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./solutions/0941_valid_mountain_array.js) | Easy |
