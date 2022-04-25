@@ -29,6 +29,7 @@ JavaScript solutions for LeetCode problems
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./solutions/0035_search_insert_position.js) | Easy |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](./solutions/0050_powx_n.js) | Medium |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./solutions/0053_maximum_subarray.js) | Easy |
+| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./solutions/0058_length_of_last_word.js) | Easy |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./solutions/0067_add_binary.js) | Easy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
