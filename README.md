@@ -33,6 +33,7 @@ JavaScript solutions for LeetCode problems
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./solutions/0066_plus_one.js) | Easy |
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./solutions/0067_add_binary.js) | Easy |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./solutions/0069_sqrtx.js) | Easy |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](./solutions/0070_climbing_stairs.js) | Easy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./solutions/0191_number_of_1_bits.js) | Easy |
