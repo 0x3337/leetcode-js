@@ -6,13 +6,21 @@
  */
 
 const searchInsert = function (nums, target) {
-  if (nums[nums.length - 1] < target) {
-    return nums.length;
-  }
+  let [left, right] = [0, nums.length - 1];
 
-  for (let i = 0; i < nums.length; i++) {
-    if (nums[i] >= target) {
-      return i;
+  while (left <= right) {
+    let mid = Math.floor((left + right) / 2);
+
+    if (nums[mid] === target) {
+      return mid;
+    }
+
+    if (nums[mid] > target) {
+      right = mid - 1;
+    } else {
+      left = mid + 1;
     }
   }
+
+  return left;
 };
