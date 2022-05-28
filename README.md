@@ -45,6 +45,7 @@ JavaScript solutions for LeetCode problems
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/0704_binary_search.js) | Easy |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./solutions/0941_valid_mountain_array.js) | Easy |
+| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/0977_squares_of_a_sorted_array.js) | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [JavaScript](./solutions/1089_duplicate_zeros.js) | Easy |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [JavaScript](./solutions/1360_number_of_days_between_two_dates.js) | Easy |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JavaScript](./solutions/1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.js) | Medium |
