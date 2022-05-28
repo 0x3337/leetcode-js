@@ -37,6 +37,7 @@ JavaScript solutions for LeetCode problems
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./solutions/0083_remove_duplicates_from_sorted_list.js) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./solutions/0088_merge_sorted_array.js) | Easy |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./solutions/0189_rotate_array.js) | Medium |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./solutions/0191_number_of_1_bits.js) | Easy |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./solutions/0278_first_bad_version.js) | Easy |
