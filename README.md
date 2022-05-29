@@ -41,6 +41,7 @@ JavaScript solutions for LeetCode problems
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./solutions/0191_number_of_1_bits.js) | Easy |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./solutions/0278_first_bad_version.js) | Easy |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./solutions/0283_move_zeroes.js) | Easy |
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/) | [JavaScript](./solutions/0326_power_of_three.js) | Easy |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
