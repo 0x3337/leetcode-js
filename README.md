@@ -47,6 +47,7 @@ JavaScript solutions for LeetCode problems
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./solutions/0344_reverse_string.js) | Easy |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
+| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/0557_reverse_words_in_a_string_iii.js) | Easy |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/0704_binary_search.js) | Easy |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./solutions/0941_valid_mountain_array.js) | Easy |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/0977_squares_of_a_sorted_array.js) | Easy |
