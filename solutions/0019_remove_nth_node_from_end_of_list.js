@@ -7,18 +7,18 @@
 
 const removeNthFromEnd = function (head, n) {
   let dummy = new ListNode(0, head);
-  let [left, right] = [dummy, head];
+  let [slow, fast] = [dummy, head];
 
-  while (n > 0 && right) {
-    right = right.next;
+  while (n > 0 && fast) {
+    fast = fast.next;
     n--;
   }
 
-  while (right) {
-    left = left.next;
-    right = right.next;
+  while (fast) {
+    slow = slow.next;
+    fast = fast.next;
   }
 
-  left.next = left.next.next ?? null;
+  slow.next = slow.next.next ?? null;
   return dummy.next;
 };
