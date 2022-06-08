@@ -9,9 +9,7 @@ const climbStairs = function (n) {
   let [i, j] = [1, 1];
 
   while (--n > 0) {
-    let tmp = i + j;
-    i = j;
-    j = tmp;
+    [i, j] = [j, i + j];
   }
 
   return j;
