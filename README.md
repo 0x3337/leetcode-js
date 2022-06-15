@@ -49,6 +49,7 @@ JavaScript solutions for LeetCode problems
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/0557_reverse_words_in_a_string_iii.js) | Easy |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [JavaScript](./solutions/0567_permutation_in_string.js) | Medium |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./solutions/0617_merge_two_binary_trees.js) | Easy |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/0704_binary_search.js) | Easy |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [JavaScript](./solutions/0733_flood_fill.js) | Easy |
