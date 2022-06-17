@@ -36,6 +36,7 @@ JavaScript solutions for LeetCode problems
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](./solutions/0070_climbing_stairs.js) | Easy |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./solutions/0083_remove_duplicates_from_sorted_list.js) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./solutions/0088_merge_sorted_array.js) | Easy |
+| 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [JavaScript](./solutions/0116_populating_next_right_pointers_in_each_node.js) | Medium |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](./solutions/0167_two_sum_ii_input_array_is_sorted.js) | Medium |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./solutions/0169_majority_element.js) | Easy |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./solutions/0189_rotate_array.js) | Medium |
