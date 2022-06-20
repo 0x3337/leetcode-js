@@ -6,28 +6,26 @@
  */
 
 const mergeTwoLists = function (l1, l2) {
-  let res;
-  let node;
+  let dummy = new ListNode(0);
+  let current = dummy;
 
-  while (l1 || l2) {
-    let n1 = l1 && l1.val;
-    let n2 = l2 && l2.val;
-    
-    let n = (n1 !== null && n2 !== null ? (Math.min(n1, n2)) : (n1 || n2 || 0));
-
-    if (!res) {
-      res = node = new ListNode(n);
-    } else {
-      node.next = new ListNode(n);
-      node = node.next;
-    }
-
-    if (l1 && n === n1) {
+  while (l1 && l2) {
+    if (l1.val < l2.val) {
+      current.next = l1;
       l1 = l1.next;
-    } else if (l2 && n === n2) {
+    } else {
+      current.next = l2;
       l2 = l2.next;
     }
+
+    current = current.next;
   }
 
-  return res || null;
+  if (l1) {
+    current.next = l1;
+  } else {
+    current.next = l2;
+  }
+
+  return dummy.next;
 };
