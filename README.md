@@ -61,6 +61,7 @@ JavaScript solutions for LeetCode problems
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./solutions/0876_middle_of_the_linked_list.js) | Easy |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./solutions/0941_valid_mountain_array.js) | Easy |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/0977_squares_of_a_sorted_array.js) | Easy |
+| 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [JavaScript](./solutions/0994_rotting_oranges.js) | Medium |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [JavaScript](./solutions/1089_duplicate_zeros.js) | Easy |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [JavaScript](./solutions/1360_number_of_days_between_two_dates.js) | Easy |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JavaScript](./solutions/1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.js) | Medium |
