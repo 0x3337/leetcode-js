@@ -43,6 +43,7 @@ JavaScript solutions for LeetCode problems
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./solutions/0189_rotate_array.js) | Medium |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./solutions/0191_number_of_1_bits.js) | Easy |
+| 198  | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](./solutions/0198_house_robber.js) | Medium |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./solutions/0206_reverse_linked_list.js) | Easy |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](./solutions/0231_power_of_two.js) | Easy |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./solutions/0278_first_bad_version.js) | Easy |
