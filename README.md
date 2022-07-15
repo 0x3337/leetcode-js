@@ -54,6 +54,7 @@ JavaScript solutions for LeetCode problems
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./solutions/0344_reverse_string.js) | Easy |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
+| 542  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](./solutions/0542_01_matrix.js) | Medium |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/0557_reverse_words_in_a_string_iii.js) | Easy |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [JavaScript](./solutions/0567_permutation_in_string.js) | Medium |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./solutions/0617_merge_two_binary_trees.js) | Easy |
