@@ -27,6 +27,7 @@ JavaScript solutions for LeetCode problems
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./solutions/0027_remove_element.js) | Easy |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./solutions/0028_implement_strstr.js) | Easy |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./solutions/0035_search_insert_position.js) | Easy |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/) | [JavaScript](./solutions/0046_permutations.js) | Medium |
 | 50   | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JavaScript](./solutions/0050_powx_n.js) | Medium |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./solutions/0053_maximum_subarray.js) | Easy |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./solutions/0058_length_of_last_word.js) | Easy |
