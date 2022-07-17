@@ -62,6 +62,7 @@ JavaScript solutions for LeetCode problems
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JavaScript](./solutions/solutions/0695_max_area_of_island.js) | Medium |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/0704_binary_search.js) | Easy |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [JavaScript](./solutions/0733_flood_fill.js) | Easy |
+| 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [JavaScript](./solutions/0784_letter_case_permutation.js) | Medium |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./solutions/0876_middle_of_the_linked_list.js) | Easy |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./solutions/0941_valid_mountain_array.js) | Easy |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/0977_squares_of_a_sorted_array.js) | Easy |
