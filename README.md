@@ -35,6 +35,7 @@ JavaScript solutions for LeetCode problems
 | 67   | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./solutions/0067_add_binary.js) | Easy |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JavaScript](./solutions/0069_sqrtx.js) | Easy |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](./solutions/0070_climbing_stairs.js) | Easy |
+| 77   | [Combinations](https://leetcode.com/problems/combinations/) | [JavaScript](./solutions/0077_combinations.js) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./solutions/0083_remove_duplicates_from_sorted_list.js) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./solutions/0088_merge_sorted_array.js) | Easy |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [JavaScript](./solutions/0116_populating_next_right_pointers_in_each_node.js) | Medium |
