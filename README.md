@@ -61,6 +61,7 @@ JavaScript solutions for LeetCode problems
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./solutions/0617_merge_two_binary_trees.js) | Easy |
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JavaScript](./solutions/solutions/0695_max_area_of_island.js) | Medium |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/0704_binary_search.js) | Easy |
+| 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JavaScript](./solutions/0724_find_pivot_index.js) | Easy |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [JavaScript](./solutions/0733_flood_fill.js) | Easy |
 | 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [JavaScript](./solutions/0784_letter_case_permutation.js) | Medium |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./solutions/0876_middle_of_the_linked_list.js) | Easy |
