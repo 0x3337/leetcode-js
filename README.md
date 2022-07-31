@@ -54,6 +54,7 @@ JavaScript solutions for LeetCode problems
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./solutions/0283_move_zeroes.js) | Easy |
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/) | [JavaScript](./solutions/0326_power_of_three.js) | Easy |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./solutions/0344_reverse_string.js) | Easy |
+| 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [JavaScript](./solutions/0392_is_subsequence.js) | Easy |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
 | 542  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](./solutions/0542_01_matrix.js) | Medium |
