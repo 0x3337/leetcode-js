@@ -40,6 +40,7 @@ JavaScript solutions for LeetCode problems
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./solutions/0088_merge_sorted_array.js) | Easy |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [JavaScript](./solutions/0116_populating_next_right_pointers_in_each_node.js) | Medium |
 | 120  | [Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./solutions/0120_triangle.js) | Medium |
+| 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./solutions/0121_best_time_to_buy_and_sell_stock.js) | Easy |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./solutions/0136_single_number.js) | Easy |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JavaScript](./solutions/0142_linked_list_cycle_ii.js) | Medium |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [JavaScript](./solutions/0167_two_sum_ii_input_array_is_sorted.js) | Medium |
