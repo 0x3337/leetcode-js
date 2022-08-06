@@ -62,6 +62,7 @@ JavaScript solutions for LeetCode problems
 | 542  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](./solutions/0542_01_matrix.js) | Medium |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/0557_reverse_words_in_a_string_iii.js) | Easy |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [JavaScript](./solutions/0567_permutation_in_string.js) | Medium |
+| 589  | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [JavaScript](./solutions/0589_n_ary_tree_preorder_traversal.js) | Easy |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](./solutions/0617_merge_two_binary_trees.js) | Easy |
 | 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JavaScript](./solutions/solutions/0695_max_area_of_island.js) | Medium |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./solutions/0704_binary_search.js) | Easy |
