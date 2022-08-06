@@ -38,6 +38,7 @@ JavaScript solutions for LeetCode problems
 | 77   | [Combinations](https://leetcode.com/problems/combinations/) | [JavaScript](./solutions/0077_combinations.js) | Medium |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](./solutions/0083_remove_duplicates_from_sorted_list.js) | Easy |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JavaScript](./solutions/0088_merge_sorted_array.js) | Easy |
+| 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [JavaScript](./solutions/102_binary_tree_level_order_traversal.js) | Medium |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [JavaScript](./solutions/0116_populating_next_right_pointers_in_each_node.js) | Medium |
 | 120  | [Triangle](https://leetcode.com/problems/triangle/) | [JavaScript](./solutions/0120_triangle.js) | Medium |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./solutions/0121_best_time_to_buy_and_sell_stock.js) | Easy |
