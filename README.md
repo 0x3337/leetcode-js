@@ -59,6 +59,7 @@ JavaScript solutions for LeetCode problems
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./solutions/0344_reverse_string.js) | Easy |
 | 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [JavaScript](./solutions/0392_is_subsequence.js) | Easy |
 | 400  | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [JavaScript](./solutions/0400_nth_digit.js) | Medium |
+| 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [JavaScript](./solutions/0409_longest_palindrome.js) | Easy |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./solutions/0485_max_consecutive_ones.js) | Easy |
 | 542  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [JavaScript](./solutions/0542_01_matrix.js) | Medium |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./solutions/0557_reverse_words_in_a_string_iii.js) | Easy |
