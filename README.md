@@ -50,6 +50,7 @@ JavaScript solutions for LeetCode problems
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [JavaScript](./solutions/0190_reverse_bits.js) | Easy |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./solutions/0191_number_of_1_bits.js) | Easy |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](./solutions/0198_house_robber.js) | Medium |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [JavaScript](./solutions/0200_number_of_islands.js) | Medium |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](./solutions/0205_isomorphic_strings.js) | Easy |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./solutions/0206_reverse_linked_list.js) | Easy |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](./solutions/0231_power_of_two.js) | Easy |
