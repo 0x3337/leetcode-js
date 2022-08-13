@@ -73,6 +73,7 @@ JavaScript solutions for LeetCode problems
 | 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [JavaScript](./solutions/0724_find_pivot_index.js) | Easy |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [JavaScript](./solutions/0733_flood_fill.js) | Easy |
 | 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [JavaScript](./solutions/0784_letter_case_permutation.js) | Medium |
+| 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [JavaScript](./solutions/0844_backspace_string_compare.js) | Easy |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [JavaScript](./solutions/0876_middle_of_the_linked_list.js) | Easy |
 | 941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./solutions/0941_valid_mountain_array.js) | Easy |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/0977_squares_of_a_sorted_array.js) | Easy |
