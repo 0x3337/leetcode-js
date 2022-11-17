@@ -80,6 +80,7 @@ JavaScript solutions for LeetCode problems
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./solutions/0977_squares_of_a_sorted_array.js) | Easy |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [JavaScript](./solutions/0994_rotting_oranges.js) | Medium |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [JavaScript](./solutions/1089_duplicate_zeros.js) | Easy |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [JavaScript](./solutions/1161_maximum_level_sum_of_a_binary_tree.js) | Medium |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [JavaScript](./solutions/1360_number_of_days_between_two_dates.js) | Easy |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JavaScript](./solutions/1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.js) | Medium |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [JavaScript](./solutions/1480_running_sum_of_1d_array.js) | Easy |
