@@ -2,7 +2,7 @@
  * @number 53
  * @title Maximum Subarray
  * @url https://leetcode.com/problems/maximum-subarray/
- * @difficulty easy
+ * @difficulty medium
  */
 
 const maxSubArray = function (nums) {
@@ -11,8 +11,8 @@ const maxSubArray = function (nums) {
 
   for (let num of nums) {
     sum += num;
-    if (sum > res) res = sum;
-    if (sum < 0) sum = 0;
+    res = Math.max(sum, res);
+    sum = Math.max(sum, 0);
   }
 
   return res;
