@@ -86,4 +86,5 @@ JavaScript solutions for LeetCode problems
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [JavaScript](./solutions/1480_running_sum_of_1d_array.js) | Easy |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [JavaScript](./solutions/1588_sum_of_all_odd_length_subarrays.js) | Easy |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [JavaScript](./solutions/1807_evaluate_the_bracket_pairs_of_a_string.js) | Medium |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [JavaScript](./solutions/1963_minimum_number_of_swaps_to_make_the_string_balanced.js) | Medium |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [JavaScript](./solutions/2221_find_triangular_sum_of_an_array.js) | Medium |
