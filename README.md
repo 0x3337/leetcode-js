@@ -87,5 +87,6 @@ JavaScript solutions for LeetCode problems
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [JavaScript](./solutions/1588_sum_of_all_odd_length_subarrays.js) | Easy |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [JavaScript](./solutions/1710_maximum_units_on_a_truck.js) | Easy |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [JavaScript](./solutions/1807_evaluate_the_bracket_pairs_of_a_string.js) | Medium |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./solutions/1929_concatenation_of_array.js) | Easy |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [JavaScript](./solutions/1963_minimum_number_of_swaps_to_make_the_string_balanced.js) | Medium |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [JavaScript](./solutions/2221_find_triangular_sum_of_an_array.js) | Medium |
