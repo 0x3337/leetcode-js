@@ -54,6 +54,7 @@ JavaScript solutions for LeetCode problems
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [JavaScript](./solutions/0205_isomorphic_strings.js) | Easy |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./solutions/0206_reverse_linked_list.js) | Easy |
 | 231  | [Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](./solutions/0231_power_of_two.js) | Easy |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/) | [JavaScript](./solutions/0268_missing_number.js) | Easy |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./solutions/0278_first_bad_version.js) | Easy |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [JavaScript](./solutions/0283_move_zeroes.js) | Easy |
 | 326  | [Power of Three](https://leetcode.com/problems/power-of-three/) | [JavaScript](./solutions/0326_power_of_three.js) | Easy |
